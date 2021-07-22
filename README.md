@@ -1,0 +1,2 @@
+# fibonacchi
+ Calculate fibonacchi digits
